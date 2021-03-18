@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+footer {
+	margin-top: 50px;
+}
+
+label > p {
+	color: white;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.answer > .winner{
+	text-align: center;
+	font-weight: 700;
+	font-size: 60px;
+}
+
+.sclist {
+	font-weight: 700;
+	font-size: 40px;
+}
+
+button {
+	background-color: #2ed573;
+	color: white;
+	padding: 15px;
+	font-weight: 700;
+}
+
+button:hover {
+	transition: 0.5s;
+	background-color: #55efc4;
+}
+
+.about-us-head {
+	font-weight: 700;
+	font-size: 30px;
+}
+
+input, textarea {
+	border-radius: 30px;
+	background-color: #fdcb6e;
+}
+
+.butn {
+	border-radius: 30px;
+}
+.about {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 30px;
+	background-color: #fa983a;
+	padding: 30px;
+}
+
+.row > .col-sm-6, .col-sm-12 {
+	font-size: 30px;
+}

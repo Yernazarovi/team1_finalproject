@@ -1,0 +1,16 @@
+{
+  "name": "finalproject-group1",
+  "version": "1.0.0",
+  "main": "sc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lovely group of Aldiyar Salkenov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
